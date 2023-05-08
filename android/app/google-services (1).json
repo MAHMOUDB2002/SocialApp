@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "815392242420",
+    "project_id": "socialchat-efb06",
+    "storage_bucket": "socialchat-efb06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815392242420:android:62a5da71a9808fd63cbca1",
+        "android_client_info": {
+          "package_name": "com.example.final_project_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815392242420-7n7gkn5d1m2j535qh1q16ifdi9dcam31.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.final_project_flutter",
+            "certificate_hash": "9fb4f949b6328dfd23a8b1336e93b63e85656ff8"
+          }
+        },
+        {
+          "client_id": "815392242420-hoq41quhthd3dun22kcmgbn9t2j44jm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEfGO5h1tgZMoCsOLbFD3-SZyhlqbgq_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815392242420-hoq41quhthd3dun22kcmgbn9t2j44jm4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
